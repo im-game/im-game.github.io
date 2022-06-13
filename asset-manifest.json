@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.61be7cbd.css",
+    "main.js": "/static/js/main.c9b95a1b.js",
+    "static/js/27.cc5c618e.chunk.js": "/static/js/27.cc5c618e.chunk.js",
+    "static/media/Grotta-Semibold.woff": "/static/media/Grotta-Semibold.a62b414bb61bd791fb78.woff",
+    "static/media/Grotta-Regular.woff": "/static/media/Grotta-Regular.c125fdc2e5905512f414.woff",
+    "static/media/Grotta-Medium.woff": "/static/media/Grotta-Medium.cc76ae7a665f5e82876f.woff",
+    "static/media/Grotta-Bold.woff": "/static/media/Grotta-Bold.2b9c5f47345366d0e5f8.woff",
+    "static/media/Grotta-Light.woff": "/static/media/Grotta-Light.f44eca2f76530e506a27.woff",
+    "static/media/ScrollToTopButtonOutline.png": "/static/media/ScrollToTopButtonOutline.71009988e1d54c7030f1.png",
+    "index.html": "/index.html"
+  },
+  "entrypoints": [
+    "static/css/main.61be7cbd.css",
+    "static/js/main.c9b95a1b.js"
+  ]
+}
