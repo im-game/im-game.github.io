@@ -19,7 +19,7 @@ email: contact@im-game.co.kr
 ### Data you provide us.
 
 - Contact information (such as name and email address)
-- Player name and password
+- Player nickname
 - Profile information (such as profile photo)
 - Other data you choose to give us (such as data to identify a lost account)
 
