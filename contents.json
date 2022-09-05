@@ -40,7 +40,7 @@
         "description": "Avoid flying meteoroids and survive as long as pos sible. The fate of mankind depends on you.",
         "thumbnail": "./assets/Meteoroid/Meteoroid_GameItemThumb.png",
         "decoration": "",
-        "video": "../../assets/Meteoroid/Meteoroid_Detail_0.mp4",
+        "video": null,
         "video_deco": "../../assets/Meteoroid/Meteoroid_DetailDeco_0.png",
         "details": {
           "1": [
@@ -67,7 +67,7 @@
         "description": "Marvel Collector is a casual collection game in which fate is divided by one choice. Match the final destination of the falling Marvel and become the best Marvel collector.",
         "thumbnail": "./assets/BallCollector/BallCollector_GameItemThumb.png",
         "decoration": "./assets/BallCollector/BallCollector_GameItemDeco.png",
-        "video": "../../assets/BallCollector/BallCollector_Detail_0.mp4",
+        "video": null,
         "video_deco": "../../assets/BallCollector/BallCollector_DetailDeco_0.png",
         "details": {
           "1": [
