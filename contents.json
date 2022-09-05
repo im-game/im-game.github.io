@@ -60,7 +60,7 @@
           "ios": "https://www.apple.com/app-store/",
           "android": "https://play.google.com/store/"
         },
-        "service_state": "soon"
+        "service_state": "live"
       },
       {
         "title": "Marvel Collector",
@@ -87,7 +87,7 @@
           "ios": "https://www.apple.com/app-store/",
           "android": "https://play.google.com/store/"
         },
-        "service_state": "live"
+        "service_state": "soon"
       },
       {
         "title": "The Greater",
