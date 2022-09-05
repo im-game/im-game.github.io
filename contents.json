@@ -123,8 +123,8 @@
           "videoLodingColor": "#C4BBAF"
         },
         "store_links": {
-          "ios": "https://www.apple.com/app-store/",
-          "android": "https://play.google.com/store/"
+          "ios":  null,
+          "android": "https://play.google.com/store/apps/details?id=com.imgame.greater"
         },
         "service_state": "live"
       },
