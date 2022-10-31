@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.61be7cbd.css",
-    "main.js": "/static/js/main.f2391bdc.js",
+    "main.css": "/static/css/main.d31e4a54.css",
+    "main.js": "/static/js/main.b33d3881.js",
     "static/js/27.cc5c618e.chunk.js": "/static/js/27.cc5c618e.chunk.js",
     "static/media/Grotta-Semibold.woff": "/static/media/Grotta-Semibold.a62b414bb61bd791fb78.woff",
     "static/media/Grotta-Regular.woff": "/static/media/Grotta-Regular.c125fdc2e5905512f414.woff",
@@ -12,7 +12,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.61be7cbd.css",
-    "static/js/main.f2391bdc.js"
+    "static/css/main.d31e4a54.css",
+    "static/js/main.b33d3881.js"
   ]
 }
