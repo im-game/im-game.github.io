@@ -1,7 +1,7 @@
 {
-  "policy_properties" : {
-    "markdown" : "",
-    "effective_date" : "2022/7/15"
+  "policy_properties": {
+    "markdown": "",
+    "effective_date": "2022/7/15"
   },
   "settings": {
     "font_size": {
@@ -36,23 +36,66 @@
     },
     "games": [
       {
-        "title": "Meteoroid",
-        "description": "Avoid flying meteoroids and survive as long as pos sible. The fate of mankind depends on you.",
-        "thumbnail": "./assets/Meteoroid/Meteoroid_GameItemThumb.png",
+        "title": "Dawntown",
+        "description": "Avoid monsters in the dark, gather keys, find an exit, and endure the day. You can also navigate through the box to get a variety of items. Use all your senses to be the last survivor.",
+        "thumbnail": "./assets/Dawntown/Dawntown_GameItemThumb.png",
         "decoration": "",
-        "video": null,
-        "video_deco": "../../assets/Meteoroid/Meteoroid_DetailDeco_0.png",
+        "video": "../../assets/Dawntown_Preview_960x720_4x3.mp4",
+        "video_deco": "../../assets/Dawntown/Dawntown_DetailDeco_0.png",
         "details": {
           "1": [
-            "../../assets/Meteoroid/Meteoroid_DetailImage_1.png",
-            "../../assets/Meteoriod/Meteoriod_DetailDeco_1.png"
+            "../../assets/Dawntown/Dawntown_Detail_0.gif",
+            "../../assets/Dawntown/Dawntown_DetailDeco_0.gif"
+          ],
+          "2": [
+            "../../assets/Dawntown/Dawntown_Detail_1.png",
+            "../../assets/Dawntown/Dawntown_DetailDeco_1.png"
+          ],
+          "3": [
+            "../../assets/Dawntown/Dawntown_Detail_2.png",
+            "../../assets/Dawntown/Dawntown_DetailDeco_2.png"
+          ],
+          "4": [
+            "../../assets/Dawntown/Dawntown_Detail_3.png",
+            "../../assets/Dawntown/Dawntown_DetailDeco_3.png"
+          ],
+          "5": [
+            "../../assets/Dawntown/Dawntown_Detail_4.png",
+            "../../assets/Dawntown/Dawntown_DetailDeco_4.gif"
           ]
         },
-        "route": "/meteoroid",
+        "route": "/dawntown",
+        "theme": {
+          "backgroundColor": "#222222",
+          "baseTextColor": "#FFFFFF",
+          "logoColor": "#DDDDDD",
+          "hoverColor": "#DDDDDD",
+          "videoLodingColor": "#DDDDDD"
+        },
+        "store_links": {
+          "ios": "https://www.apple.com/app-store/",
+          "android": "https://play.google.com/store/"
+        },
+        "service_state": "soon"
+      },
+      {
+        "title": "Meteroid",
+        "description": "Avoid flying meteoroids and survive as long as pos sible. The fate of mankind depends on you.",
+        "thumbnail": "./assets/Meteroid/Meteroid_GameItemThumb.png",
+        "decoration": "",
+        "video": "../../assets/Meteroid/Meteroid_Detail_0.mp4",
+        "video_deco": "../../assets/Meteroid/Meteroid_DetailDeco_0.png",
+        "details": {
+          "1": [
+            "../../assets/Meteroid/Meteroid_Detail_1.png",
+            "../../assets/Meteroid/Meteroid_DetailDeco_1.png"
+          ]
+        },
+        "route": "/meteroid",
         "theme": {
           "backgroundColor": "#586F6C",
           "baseTextColor": "#FFC6BE",
-          "logoColor":"#FFC6BE",
+          "logoColor": "#FFC6BE",
           "hoverColor": "#2B433F",
           "videoLodingColor": "#4F6461"
         },
@@ -67,7 +110,7 @@
         "description": "Marvel Collector is a casual collection game in which fate is divided by one choice. Match the final destination of the falling Marvel and become the best Marvel collector.",
         "thumbnail": "./assets/BallCollector/BallCollector_GameItemThumb.png",
         "decoration": "./assets/BallCollector/BallCollector_GameItemDeco.png",
-        "video": null,
+        "video": "../../assets/BallCollector/BallCollector_Detail_0.mp4",
         "video_deco": "../../assets/BallCollector/BallCollector_DetailDeco_0.png",
         "details": {
           "1": [
@@ -79,7 +122,7 @@
         "theme": {
           "backgroundColor": "#D8D6CB",
           "baseTextColor": "#075181",
-          "logoColor":"#075181",
+          "logoColor": "#075181",
           "hoverColor": "#E49486",
           "videoLodingColor": "#CBC9BE"
         },
@@ -87,7 +130,7 @@
           "ios": "https://www.apple.com/app-store/",
           "android": "https://play.google.com/store/"
         },
-        "service_state": "soon"
+        "service_state": "live"
       },
       {
         "title": "The Greater",
@@ -118,13 +161,13 @@
         "theme": {
           "backgroundColor": "#D1C8BC",
           "baseTextColor": "#000000",
-          "logoColor" : "#000000",
+          "logoColor": "#000000",
           "hoverColor": "#4189B0",
           "videoLodingColor": "#C4BBAF"
         },
         "store_links": {
-          "ios":  "https://apps.apple.com/us/app/the-greater/id1605974253",
-          "android": "https://play.google.com/store/apps/details?id=com.imgame.greater"
+          "ios": "https://www.apple.com/app-store/aaaa",
+          "android": "https://play.google.com/store/"
         },
         "service_state": "live"
       },
@@ -157,7 +200,7 @@
         "theme": {
           "backgroundColor": "#8FA1AC",
           "baseTextColor": "#DFF854",
-          "logoColor" : "#DFF854",
+          "logoColor": "#DFF854",
           "hoverColor": "#F7FF38",
           "videoLodingColor": "#ACBDC7"
         },
