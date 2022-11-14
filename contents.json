@@ -36,28 +36,28 @@
     },
     "games": [
       {
-        "title": "Dawntown",
+               "title": "Dawntown",
         "description": "Avoid monsters in the dark, gather keys, find an exit, and endure the day. You can also navigate through the box to get a variety of items. Use all your senses to be the last survivor.",
         "thumbnail": "./assets/Dawntown/Dawntown_GameItemThumb.png",
         "decoration": "",
-        "video": "../../assets/Dawntown_Preview_960x720_4x3.mp4",
+        "video": "../../assets/Dawntown/Dawntown_Preview_960x720_4x3.mp4",
         "video_deco": "../../assets/Dawntown/Dawntown_DetailDeco_0.png",
         "details": {
           "1": [
-            "../../assets/Dawntown/Dawntown_Detail_0.gif",
+            "../../assets/Dawntown/Dawntown_Detail_0.png",
             "../../assets/Dawntown/Dawntown_DetailDeco_0.gif"
           ],
           "2": [
-            "../../assets/Dawntown/Dawntown_Detail_1.png",
-            "../../assets/Dawntown/Dawntown_DetailDeco_1.png"
+            "../../assets/Dawntown/Dawntown_Detail_1.gif",
+            "../../assets/Dawntown/Dawntown_DetailDeco_1.gif"
           ],
           "3": [
             "../../assets/Dawntown/Dawntown_Detail_2.png",
-            "../../assets/Dawntown/Dawntown_DetailDeco_2.png"
+            "../../assets/Dawntown/Dawntown_DetailDeco_2.gif"
           ],
           "4": [
             "../../assets/Dawntown/Dawntown_Detail_3.png",
-            "../../assets/Dawntown/Dawntown_DetailDeco_3.png"
+            "../../assets/Dawntown/Dawntown_DetailDeco_3.gif"
           ],
           "5": [
             "../../assets/Dawntown/Dawntown_Detail_4.png",
