@@ -36,16 +36,16 @@
     },
     "games": [
       {
-        "title": "Meteroid",
+        "title": "Meteoroid",
         "description": "Avoid flying meteoroids and survive as long as pos sible. The fate of mankind depends on you.",
-        "thumbnail": "./assets/Meteroid/Meteroid_GameItemThumb.png",
+        "thumbnail": "./assets/Meteoroid/Meteoroid_GameItemThumb.png",
         "decoration": "",
-        "video": "../../assets/Meteroid/Meteroid_Detail_0.mp4",
-        "video_deco": "../../assets/Meteroid/Meteroid_DetailDeco_0.png",
+        "video": "../../assets/Meteoroid/Meteoroid_Detail_0.mp4",
+        "video_deco": "../../assets/Meteoroid/Meteoroid_DetailDeco_0.png",
         "details": {
           "1": [
-            "../../assets/Meteroid/Meteroid_Detail_1.png",
-            "../../assets/Meteroid/Meteroid_DetailDeco_1.png"
+            "../../assets/Meteoroid/Meteoroid_Detail_1.png",
+            "../../assets/Meteoroid/Meteoroid_DetailDeco_1.png"
           ]
         },
         "route": "/meteroid",
