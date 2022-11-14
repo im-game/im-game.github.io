@@ -200,8 +200,8 @@
         "theme": {
           "backgroundColor": "#222222",
           "baseTextColor": "#FFFFFF",
-          "logoColor": "#DDDDDD",
-          "hoverColor": "#DDDDDD",
+          "logoColor": "#000000",
+          "hoverColor": "#000000",
           "videoLodingColor": "#000000"
         },
         "store_links": {
