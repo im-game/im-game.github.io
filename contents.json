@@ -40,11 +40,11 @@
         "description": "Avoid flying meteoroids and survive as long as pos sible. The fate of mankind depends on you.",
         "thumbnail": "./assets/Meteoroid/Meteoroid_GameItemThumb.png",
         "decoration": "",
-        "video": "../../assets/Meteoroid/Meteoroid_Detail_0.mp4",
-        "video_deco": "../../assets/Meteoroid/Meteoroid_DetailDeco_0.png",
+        "video": "",
+        "video_deco": "",
         "details": {
           "1": [
-            "../../assets/Meteoroid/Meteoroid_Detail_1.png",
+            "../../assets/Meteoroid/Meteoroid_DetailImage_1.png",
             "../../assets/Meteoroid/Meteoroid_DetailDeco_1.png"
           ]
         },
@@ -67,7 +67,7 @@
         "description": "Marvel Collector is a casual collection game in which fate is divided by one choice. Match the final destination of the falling Marvel and become the best Marvel collector.",
         "thumbnail": "./assets/BallCollector/BallCollector_GameItemThumb.png",
         "decoration": "./assets/BallCollector/BallCollector_GameItemDeco.png",
-        "video": "../../assets/BallCollector/BallCollector_Detail_0.mp4",
+        "video": "",
         "video_deco": "../../assets/BallCollector/BallCollector_DetailDeco_0.png",
         "details": {
           "1": [
@@ -94,7 +94,7 @@
         "description": "Addictive fast touch game.\nGreater, which finds large numbers and quickly touches them and explodes them, is a casual game good for brain activity for the brain.",
         "thumbnail": "./assets/Greater/Greater_GameItemThumb.png",
         "decoration": "../assets/Greater/Greater_GameItemDeco.png",
-        "video": "../../assets/Greater/Greater_Detail_0.mp4",
+        "video": "../../assets/Greater/Greater_PromotionVideo_960x720.mp4",
         "video_deco": "../../assets/Greater/Greater_DetailDeco_0.png",
         "details": {
           "1": [
@@ -123,8 +123,8 @@
           "videoLodingColor": "#C4BBAF"
         },
         "store_links": {
-          "ios":"https://apps.apple.com/us/app/the-greater/id1605974253",
-          "android": "https://play.google.com/store/"
+          "ios": "https://apps.apple.com/us/app/the-greater/id1605974253",
+          "android": "https://play.google.com/store/apps/details?id=com.imgame.greater"
         },
         "service_state": "live"
       },
@@ -167,8 +167,8 @@
         },
         "service_state": "development"
       },
-        {
-               "title": "Dawntown",
+      {
+        "title": "Dawntown",
         "description": "Avoid monsters in the dark, gather keys, find an exit, and endure the day. You can also navigate through the box to get a variety of items. Use all your senses to be the last survivor.",
         "thumbnail": "./assets/Dawntown/Dawntown_GameItemThumb.png",
         "decoration": "",
