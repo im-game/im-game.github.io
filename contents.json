@@ -205,10 +205,10 @@
           "videoLodingColor": "#000000"
         },
         "store_links": {
-          "ios": "https://www.apple.com/app-store/",
-          "android": "https://play.google.com/store/"
+          "ios": "https://apps.apple.com/app/dawntown/id6444328713",
+          "android": "https://play.google.com/store/apps/details?id=com.imgame.drawfinder"
         },
-        "service_state": "soon"
+        "service_state": "live"
       }
     ]
   },
