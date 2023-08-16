@@ -1,0 +1,5 @@
+﻿{
+  "Description": "웹 사이트 루트의 위치 Microsoft 365에 대한 도메인 소유권 확인 파일",
+  "Domain": "im-game.com",
+  "Id": "a469cc2d-4d09-48f4-b7aa-732e497aa5d6"
+}
